@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+/* No CSS *//*# sourceMappingURL=style.css.map */
+
+#mando {
+    margin-top: 5rem;
+    border-color: aqua;
+    border: solid black;
+    border-style: solid;
+}
+
+img {
+    display: block;
+    width: 400px;
+    align-content: center;
+}
+=======
 .card-fer {
   border: 2px dotted purple;
 }
@@ -62,3 +78,4 @@
 .container-adolfo {
   padding: 2px 16px;
 }/*# sourceMappingURL=style.css.map */
+>>>>>>> develop
