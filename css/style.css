@@ -1,3 +1,20 @@
+.card-fer {
+  border: 2px dotted purple;
+}
+
+.card-fer .card-img {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.card-fer .card-img img {
+  width: 100%;
+}
+
+.card-fer .card-body span {
+  font-weight: bold;
+}
+
 .card_emi {
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -16,5 +33,24 @@
 
 .card_emi .img_emi {
   width: 200px;
+}
+
+.card-adolfo {
+  /* Add shadows to create the "card" effect */
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card-adolfo:hover {
+  -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Add some padding inside the card container */
+.container-adolfo {
+  padding: 2px 16px;
 }
 /*# sourceMappingURL=style.css.map */
