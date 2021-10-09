@@ -1,1 +1,14 @@
 /* No CSS *//*# sourceMappingURL=style.css.map */
+
+#mando {
+    margin-top: 5rem;
+    border-color: aqua;
+    border: solid black;
+    border-style: solid;
+}
+
+img {
+    display: block;
+    width: 400px;
+    align-content: center;
+}
